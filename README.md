@@ -1,13 +1,14 @@
-NAME-NASINA NISHITHA ,SECTION-3, ROLL NO.-N26V01A0254
-# python-activity-based-learning
-CASE STUDY TITLES:
-1.Progressive Electricity Billing
-2.Attendence Recovery Computation
-3.ATM Transaction Sequence Simulation
-4.Advanced Numeric Pattern Generator
-5.Password Policy Validation Engine
-6.String-Based Examination Answer Evaluation
-7.Text Compression Using Character Runs
-8.Student Marks Matrix Analysis
-9.Tuple-Based Route Distance Analysis
-10.Bus Passenger Occupancy Stimulation
+Name: Nishitha Nasina, NRI Roll Number: 26000652, NIAT Roll Number: N26V01A254, Branch: CSE Section: SECTION 3 Course: Python Programming Institute: Dr. RVR & NRI Institute of Technology
+
+S.No Problem # Case Study Title
+
+Case Study 2 Progressive Electricity Billing
+Case Study 12 Attendance Recovery Computation
+Case Study 13 ATM Transaction Sequence Simulation
+Case Study 27 Advanced Numeric Pattern Generator
+Case Study 29 Password Policy Validation Engine
+Case Study 31 String-Based Examination Answer Evaluation
+Case Study 35 Text Compression Using Character Runs
+Case Study 42 Student Marks Matrix Analysis
+Case Study 50 Tuple-Based Route Distance Analysis
+Case Study 51 Bus Passenger Occupancy Simulation
