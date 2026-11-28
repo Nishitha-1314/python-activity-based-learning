@@ -1,4 +1,4 @@
-Name: Nishitha Nasina, NRI Roll Number: 26000652, NIAT Roll Number: N26V01A254, Branch: CSE Section: SECTION 3 Course: Python Programming Institute: Dr. RVR & NRI Institute of Technology
+Name: Nishitha Nasina, NRI Roll Number: 26000652, NIAT Roll Number: N26V01A0254, Branch: CSE Section: SECTION 3 Course: Python Programming Institute: Dr. RVR & NRI Institute of Technology
 
 S.No Problem # Case Study Title
 
